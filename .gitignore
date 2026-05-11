@@ -1,0 +1,7 @@
+garbage_split/
+garbage_dataset/
+garbage-classification-v2.zip
+__pycache__/
+.DS_Store
+*.pyc
+*.zip
