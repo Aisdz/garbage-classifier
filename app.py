@@ -33,7 +33,7 @@ def predict_image(img_path):
 
 @app.route("/")
 def home():
-    return render_template("index.html")  # <- вот это изменилось
+    return render_template("index.html")
 
 @app.route("/predict", methods=["POST"])
 def predict():
