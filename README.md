@@ -20,10 +20,11 @@ metal, paper, plastic, shoes, trash
 1. Download the model: 
 Place `garbage_efficientnet_final.keras` in the project folder
 2. Install dependencies:
-   pip install -r requirements.txt
-3. Run:
+   pip install -r requirements.txt,
+   template/index.html
+4. Run:
    python app.py
-4. Open: http://localhost:3000
+5. Open: http://localhost:3000
  
  <img width="1676" height="956" alt="Screenshot 2026-05-11 at 23 13 14" src="https://github.com/user-attachments/assets/e836a165-c429-4a8a-a8f4-d02f4023f84a" />
 
