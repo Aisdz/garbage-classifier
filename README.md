@@ -4,11 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Framework](https://img.shields.io/badge/framework-Flask-black)
 
-## About
-...
-
-
-
 # Garbage classifier 🗑️
 
 EfficientNetB0 transfer learning model trained on the 
