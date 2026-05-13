@@ -1,6 +1,7 @@
 # Smart Waste Detection System
 
 ![Accuracy](https://img.shields.io/badge/accuracy-92.7%25-brightgreen)
+![Macro F1](https://img.shields.io/badge/Macro-F1-92%25-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Framework](https://img.shields.io/badge/framework-Flask-black)
 
